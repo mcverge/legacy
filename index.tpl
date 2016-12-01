@@ -190,32 +190,7 @@ z-index: 100;
         </div><!-- /.col-lg-4 -->
                
       </div>
-  <div class="spartanblaze2" style="background-color: #f2f2f2; margin-left: 0.05cm; margin-right: 0.05cm; height="10px" margin-top: -3px;><br>
-    <h2>Recent Players</h2><br>
-    <img src="http://cravatar.eu/avatar/saucebang/32.png">&nbsp
-    <img src="http://cravatar.eu/avatar/enderchicken101/32.png">&nbsp
-    <img src="http://cravatar.eu/avatar/bigdongpingpong/32.png">&nbsp
-    <img src="http://cravatar.eu/avatar/e_is_cool/32.png">&nbsp
-    <img src="http://cravatar.eu/avatar/will/32.png">&nbsp
-    <img src="http://cravatar.eu/avatar/Xx_TheAppleSlyer_xX/32.png">&nbsp
-    <img src="http://cravatar.eu/avatar/beeselmane/32.png">&nbsp
-    <img src="http://cravatar.eu/avatar/CarsonK152/32.png">&nbsp
-    <img src="http://cravatar.eu/avatar/SpartanBlaze/32.png">&nbsp
-    <img src="http://cravatar.eu/avatar/Daddy_T/32.png">&nbsp
-    <img src="http://cravatar.eu/avatar/_Axiom_/32.png">&nbsp
-    <img src="http://cravatar.eu/avatar/HeroderPL/32.png">&nbsp
-    <img src="http://cravatar.eu/avatar/jackie42771/32.png">&nbsp
-    <img src="http://cravatar.eu/avatar/rotflol/32.png">&nbsp
-    <img src="http://cravatar.eu/avatar/Rpforever/32.png">&nbsp
-    <img src="http://cravatar.eu/avatar/coberator/32.png">&nbsp
-    <img src="http://cravatar.eu/avatar/0JMofo/32.png">&nbsp
-    <img src="http://cravatar.eu/avatar/rotflol/32.png">&nbsp
-    <img src="http://cravatar.eu/avatar/Pandez/32.png">&nbsp
-    <img src="http://cravatar.eu/avatar/minizedder/32.png">&nbsp
-    <img src="http://cravatar.eu/avatar/GreenTigerJamz/32.png">&nbsp
-    <br><br>
-  </div>
-
+  
   <div class="adobes"><br>
 	<div class="minecraft">
 		<br><br>
