@@ -1,5 +1,6 @@
 # Legacy
 **I'll look into Nameless 2.0, and potentially update the theme to it**
+
 Our old NamelessMC theme
 
 After over a year of using this theme, I've finally decided it was in our best interest to open-source our Nameless theme. We've since taken the initiative of switching to our own software, developed by us. There is nothing wrong with Nameless, it will always be as great as it is.
