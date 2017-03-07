@@ -12,7 +12,7 @@ I wasn't quite sure if I wanted to release this or not, but after a lot of reque
 * You may not redistribute/resell this as your own.
 * You may not claim this to be your own.
 
-This isn't a requirement, but at the very least, please give us credit somewhere; it would mean a lot. (I won't give support to those that don't, just saying.)
+Please give us credit somewhere; it would mean a lot. (I won't give support to those that don't, just saying.)
 
 
 P.S. Sorry about my CSS Class namings (it was a form of obfuscation to prevent people from code stealing, and it somewhat worked :D)
